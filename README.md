@@ -23,7 +23,7 @@ Meu nome é Marcus Costa, tenho 33 anos e atualmente trabalho como desenvolvedor
 
 ### 📙 Artigos
 
-- [![TC 411](https://img.shields.io/badge/TC%20411-f8f8f8?style=for-the-badge)](https://www.abed.org.br/congresso2017/midiadesk/#:~:text=TC%20411%20%E2%80%93%C2%A0UTILIZA%C3%87%C3%83O%20DE%20JOGOS%20COMPUTADORIZADOS%20COMO%20APOIO%20A%20DISCIPLINAS%20DE%20CURSOS%20SUPERIORES%20DE%20COMPUTA%C3%87%C3%83O/)
+- [![TC 411](https://img.shields.io/badge/TC%20411-1a8c47?style=for-the-badge)](https://www.abed.org.br/congresso2017/midiadesk/#:~:text=TC%20411%20%E2%80%93%C2%A0UTILIZA%C3%87%C3%83O%20DE%20JOGOS%20COMPUTADORIZADOS%20COMO%20APOIO%20A%20DISCIPLINAS%20DE%20CURSOS%20SUPERIORES%20DE%20COMPUTA%C3%87%C3%83O/)
 
 ---
 
